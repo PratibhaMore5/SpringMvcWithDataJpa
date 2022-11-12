@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\SpringMvcWithDataJpa\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1946570005.index
+\BikkadIT-04-SpringMvcWithDataJpa\src\main\java
